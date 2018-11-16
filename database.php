@@ -2,7 +2,7 @@
 $dbname = 'message';
 $dbhost = 'localhost';
 $dbusername = 'dbuser';
-$dbpassword = '';
+$dbpassword ='ExamplePassword$21';
 
 $connection = mysqli_connect($dbhost, $dbusername, $dbpassword, $dbname);
 
